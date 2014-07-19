@@ -214,7 +214,7 @@
 					<key>value</key>
 					<array>
 						<real>13</real>
-						<real>160</real>
+						<real>150</real>
 					</array>
 				</dict>
 				<dict>
@@ -246,7 +246,7 @@
 					<string>EnabledFloat</string>
 					<key>value</key>
 					<array>
-						<real>50</real>
+						<real>40</real>
 						<true/>
 					</array>
 				</dict>
