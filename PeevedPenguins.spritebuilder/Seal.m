@@ -14,4 +14,13 @@
     self.physicsBody.collisionType = @"seal";
 }
 
+-(id)init{
+    self = [super init];
+    
+    if(self){
+        CCLOG(@"SEal craeted");
+    }
+    return self;
+}
+
 @end
