@@ -11,16 +11,8 @@
 @implementation Seal
 
 -(void)didLoadFromCCB{
-    self.physicsBody.collisionType = @"seal";
+    self.physicsBody.collisionType = @"Seal";
 }
 
--(id)init{
-    self = [super init];
-    
-    if(self){
-        CCLOG(@"SEal craeted");
-    }
-    return self;
-}
 
 @end
