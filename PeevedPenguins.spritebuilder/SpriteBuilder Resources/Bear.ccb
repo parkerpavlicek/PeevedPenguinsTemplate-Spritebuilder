@@ -397,7 +397,7 @@
 			<key>chainedSequenceId</key>
 			<integer>0</integer>
 			<key>length</key>
-			<real>1</real>
+			<real>3</real>
 			<key>name</key>
 			<string>ArmAnimation</string>
 			<key>offset</key>
